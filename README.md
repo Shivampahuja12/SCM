@@ -1,4 +1,4 @@
 # SCM
-this is my first github file.
-<br>
 welcome!
+<br>
+this is my first Git Repository.
